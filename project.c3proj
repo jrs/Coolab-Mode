@@ -18,7 +18,8 @@
 	"uniqueId": "vu7mvm71wfi",
 	"objectTypes": {
 		"items": [
-			"Player"
+			"Player",
+			"EnemyOne"
 		],
 		"subfolders": []
 	},
