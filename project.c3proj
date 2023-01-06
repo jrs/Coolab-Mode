@@ -20,7 +20,7 @@
 		"items": [
 			"Sprite",
 			"Sprite2",
-			"Sprite3"
+			"enemy"
 		],
 		"subfolders": []
 	},
