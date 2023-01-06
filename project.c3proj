@@ -18,7 +18,8 @@
 	"uniqueId": "1n9hpv18gzd",
 	"objectTypes": {
 		"items": [
-			"enemyOne"
+			"enemyOne",
+			"enemythree"
 		],
 		"subfolders": []
 	},
