@@ -13,6 +13,14 @@
 			"author": "Scirra",
 			"version": "r317.2",
 			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Particles",
+			"name": "Particles",
+			"author": "Scirra",
+			"version": "r317.2",
+			"bundled": false
 		}
 	],
 	"uniqueId": "1n9hpv18gzd",
@@ -20,7 +28,8 @@
 		"items": [
 			"enemyOne",
 			"Sprite",
-			"dog"
+			"dog",
+			"Particles"
 		],
 		"subfolders": []
 	},
