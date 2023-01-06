@@ -1,5 +1,28 @@
 {
 	"name": "Event sheet 1",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-created",
+					"objectClass": "Sprite",
+					"sid": 858559728889787
+				}
+			],
+			"actions": [
+				{
+					"id": "set-size",
+					"objectClass": "Sprite",
+					"sid": 415191110801740,
+					"parameters": {
+						"width": "50",
+						"height": "50"
+					}
+				}
+			],
+			"sid": 793625150910503
+		}
+	],
 	"sid": 467832704326102
 }
