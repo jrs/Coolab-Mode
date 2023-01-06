@@ -18,7 +18,7 @@
 	"uniqueId": "1n9hpv18gzd",
 	"objectTypes": {
 		"items": [
-			"enemyOne"
+			"PlayerOne"
 		],
 		"subfolders": []
 	},
@@ -30,13 +30,15 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"Layout 1",
+			"Layout 2"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Event sheet 1"
+			"Event sheet 1",
+			"Event sheet 2"
 		],
 		"subfolders": []
 	},
