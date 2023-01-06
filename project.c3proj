@@ -19,7 +19,11 @@
 	"objectTypes": {
 		"items": [
 			"Player",
+<<<<<<< Updated upstream
 			"EnemyOne"
+=======
+			"EnemyTwo"
+>>>>>>> Stashed changes
 		],
 		"subfolders": []
 	},

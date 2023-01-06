@@ -36,7 +36,11 @@
 					}
 				},
 				{
+<<<<<<< Updated upstream
 					"type": "EnemyOne",
+=======
+					"type": "EnemyTwo",
+>>>>>>> Stashed changes
 					"properties": {
 						"initially-visible": true,
 						"initial-animation": "Animation 1",
@@ -48,10 +52,17 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
+<<<<<<< Updated upstream
 						"x": 138,
 						"y": 362,
 						"width": 108,
 						"height": 116,
+=======
+						"x": 652,
+						"y": 65,
+						"width": 97,
+						"height": 71,
+>>>>>>> Stashed changes
 						"originX": 0.5,
 						"originY": 0.5,
 						"color": [
