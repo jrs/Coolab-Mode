@@ -18,7 +18,8 @@
 	"uniqueId": "x1ewilsf8vb",
 	"objectTypes": {
 		"items": [
-			"Sprite"
+			"Sprite",
+			"Sprite2"
 		],
 		"subfolders": []
 	},
