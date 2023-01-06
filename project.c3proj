@@ -32,13 +32,15 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 2"
+			"Layout 2",
+			"Layout 1"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Event sheet 2"
+			"Event sheet 2",
+			"Event sheet 1"
 		],
 		"subfolders": []
 	},
