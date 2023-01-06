@@ -19,7 +19,8 @@
 	"objectTypes": {
 		"items": [
 			"enemyOne",
-			"Sprite"
+			"Sprite",
+			"dog"
 		],
 		"subfolders": []
 	},
